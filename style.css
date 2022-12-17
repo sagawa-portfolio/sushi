@@ -44,7 +44,7 @@ li {
   width: 100%;
   /* 背景を画面下まで設定 */
   height: 100vh;
-  background-image: url(../img/mainvisual-pc.jpg);
+  background-image: url(mainvisual-pc.jpg);
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
